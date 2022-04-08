@@ -1,0 +1,46 @@
+const books =[
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" },
+    {title:"things fall apart", author:"Chinua Achebe",  publication:"23/04/2000", types:"Fiction" }
+    
+    
+]
+
+
+module.exports= books
